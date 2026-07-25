@@ -105,6 +105,19 @@ export const storyCards: StoryCard[] = [
     photo: "/photos/card-5.jpg",
   },
     {
+    id: "please-forgive",
+    kind: "heart",
+    lines: ["Harshu... Bubu... Jiv...", "Please forgive me."],
+    photo: "/photos/card-5.jpg",
+  },
+    {
+      id: "ice-bags",
+      kind: "heart",
+      lines: ["Remember when we I had ordered ice cream online", "You kept that ice bag in the freezer", "right in the middle of those two ice creams"],
+    photo: "/photos/card-9.jpg",
+    photoStyle: "background"
+    },
+    {
     id: "take-blessing",
     kind: "heart",
     lines: ["For me you are my goddess and for us I've invited Ganpati Bappa and Swami Samarth to bless us."],
